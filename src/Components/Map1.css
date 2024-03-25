@@ -1,0 +1,12 @@
+.map-container {
+  height: 400px;
+  width: 80%;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.google-map {
+  height: 100%;
+  width: 100%;
+}
